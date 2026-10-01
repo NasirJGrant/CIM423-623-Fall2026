@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 38dd2fa4d8d097446b9809f93152328b
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 311126
+  packageName: Material Texture Assigner
+  packageVersion: 1.0
+  assetPath: Assets/MaterialTextureAssigner/MaterialTextureAssigner.unity
+  uploadId: 888388

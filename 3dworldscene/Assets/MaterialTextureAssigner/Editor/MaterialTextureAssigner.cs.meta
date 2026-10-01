@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b8003447ca43bb644a69a1844703e48e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 311126
+  packageName: Material Texture Assigner
+  packageVersion: 1.0
+  assetPath: Assets/MaterialTextureAssigner/Editor/MaterialTextureAssigner.cs
+  uploadId: 888388
